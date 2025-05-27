@@ -43,7 +43,8 @@ for i in range(min(50, len(image_files))):
     plt.show()
 ```
 ## 🌟 Output:
-![image](https://github.com/user-attachments/assets/19436fa3-47f9-4cae-896e-3f83761b28f5)
+![image](https://github.com/user-attachments/assets/ee4fe113-377d-4918-9735-62111d421ae1)
+
 
 ```python
 code for cat:
@@ -61,8 +62,7 @@ for i in range(min(50, len(image_files))):
     plt.show()
  ```
 ## 🌟 Output:
-![image](https://github.com/user-attachments/assets/599cf87f-368e-4b18-a4a2-ab6501383b07)
-    
+
 ## 🚀 Key Technologies
 
 Google Colab
