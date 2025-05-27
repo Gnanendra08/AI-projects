@@ -62,6 +62,7 @@ for i in range(min(50, len(image_files))):
     plt.show()
  ```
 ## 🌟 Output:
+![image](https://github.com/user-attachments/assets/3391aa18-8604-4c92-b96e-26e10a633277)
 
 ## 🚀 Key Technologies
 
